@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Lee!
+
+This is a demo.
